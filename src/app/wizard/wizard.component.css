@@ -1,0 +1,20 @@
+#forecastContainer {
+  display: flex;
+  width: 100%;
+
+}
+
+.wi{
+  min-width: 250px;
+}
+
+h4{
+  margin-right: 4px;
+  font-weight: bold;
+}
+
+span{
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+}
