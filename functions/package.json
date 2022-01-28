@@ -17,7 +17,7 @@
     "cors": "^2.8.5",
     "firebase-admin": "~7.0.0",
     "firebase-functions": "^2.3.0",
-    "simple-get": "^3.1.0"
+    "simple-get": "^4.0.1"
   },
   "devDependencies": {
     "tslint": "^5.12.0",
